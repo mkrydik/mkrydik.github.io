@@ -1,2 +1,1 @@
-# mkrydik.github.io
-mkrydik.github.io
+# [mkrydik](https://github.com/mkrydik/mkrydik)
